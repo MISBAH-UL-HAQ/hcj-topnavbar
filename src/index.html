@@ -1,27 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="favicon.ico" type="image/x-icon" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
-      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-    <link rel="stylesheet" href="styles.css" />
-    <title>Top Navbar</title>
-  </head>
 
-  <body>
-    <img src="logo.svg" alt="logo" />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="styles.css" />
+  <title>Top Navbar</title>
+</head>
 
-    <div>
-      <h1>Project Starter <i class="fa-solid fa-laptop-code"></i></h1>
-    </div>
+<body>
+  <nav>
+    <div class="nav-main">
+      <div class="nav-header">
+        <img src="./logo.svg" alt="logo" />&nbsp;&nbsp;<i class="fa-solid fa-mug-hot"></i>
+      </div>
+      <div>
+        <ul class="menu">
+          <li>
+            <a href="#">Home</a>
+          </li>
+          <li>
+            <a href="#">About</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
 
-    <script src="script.js"></script>
-  </body>
+  </nav>
+  <div class="welcome-msg">
+    <h1>Welcome To Misbah's Code Library</h1>
+  </div>
+  <div class="banner-div">
+    <img id="banner1" src="Banner.PNG" />
+  </div>
+  <p>Image by
+    <a
+      href="https://www.freepik.com/free-vector/realistic-coffee-shop-template_22896767.htm#query=coffee%20banner&position=1&from_view=keyword&track=ais&uuid=faf66f30-6102-4c4a-b9d6-56a8262fa0c6">Freepik</a>
+  </p>
+  <script src="script.js"></script>
+</body>
+
 </html>
