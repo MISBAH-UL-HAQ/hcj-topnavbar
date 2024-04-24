@@ -11,24 +11,26 @@ body {
   height: 100vh;
   line-height: 2.2;
   font-size: 0.875rem;
+  /* display:flex;
+  flex-direction:column; */
 }
 
-h2 {
-  /* font-size: 3rem;
-  margin-bottom: 1rem; */
+/* h2 {
+   font-size: 3rem;
+  margin-bottom: 1rem; 
   color: #7a420e;
-}
+} */
 
-img {
+/* img {
   height: 50px;
   width: 200px;
-}
+} */
 
-i {
+/* i {
   font-size: 5rem;
   margin-bottom: 1rem;
   color: teal;
-}
+} */
 
 nav {
   background: #35251b;
@@ -102,4 +104,5 @@ banner-div {
   text-align: left;
   margin-left: 0.1rem;
   justify-content: end;
+  /* margin-top: auto; */
 }
