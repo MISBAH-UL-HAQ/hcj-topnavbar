@@ -248,3 +248,5 @@ console.log(`${Date()} :: This is a starter template for a simple web app.`);
 ### 4. Your website now has it's own favicon
 
 ![img](./documentation/images/10.PNG)
+
+
