@@ -14,7 +14,7 @@ Mini Project of Top Navbar using HTML,CSS and JavaScript
 
 ### 1. Create a repository with the standard template
 
-![img](./documentation/images/1.png)
+![img](./documentation/images/1.PNG)
 
 ### 2. Go to Settings --> Pages -->  Github Actions
 
@@ -26,19 +26,19 @@ Mini Project of Top Navbar using HTML,CSS and JavaScript
 
 ### 4. Your static website has been deployed
 
-![img](./documentation/images/4.png)
+![img](./documentation/images/4.PNG)
 
 >## Adding Html, Css and Javascript to your website
 
 ### 1. Clone your repository and open in VS code
 
-![img](./documentation/images/5.png)
+![img](./documentation/images/5.PNG)
 
 ![img](./documentation/images/6.png)
 
 ### 2. Create the folder and file structure as shown below
 
-![img](./documentation/images/7.png)
+![img](./documentation/images/7.PNG)
 
 ### 3. Code for 'index.html'
 
@@ -231,7 +231,7 @@ console.log(`${Date()} :: This is a starter template for a simple web app.`);
 
 ### 7. Your first website is ready
 
-![img](./documentation/images/9.png)
+![img](./documentation/images/9.PNG)
 
 ## Creating a favicon
 
@@ -247,4 +247,4 @@ console.log(`${Date()} :: This is a starter template for a simple web app.`);
 
 ### 4. Your website now has it's own favicon
 
-![img](./documentation/images/10.png)
+![img](./documentation/images/10.PNG)
